@@ -26,7 +26,7 @@ If a detection falls within indigenous land, protected areas, or culturally sens
 If you discover a security vulnerability in the codebase (e.g., API key exposure, data leak, injection vulnerability):
 
 1. **Do not open a public issue.**
-2. Email the maintainers at: `[MAINTAINER_EMAIL]` (replace with your actual email when publishing).
+2. Email the maintainers at: `Yamanansari201@gmail.com`
 3. Include a description of the vulnerability and steps to reproduce it.
 4. We will acknowledge receipt within 48 hours and work on a fix.
 
