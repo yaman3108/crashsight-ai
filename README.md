@@ -89,7 +89,7 @@ This project is at **v0.1 — concept and architecture phase**. Here's what exis
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/crashsight-ai.git
+git clone https://github.com/yaman3108/crashsight-ai.git
 cd crashsight-ai
 
 # Set up the environment
