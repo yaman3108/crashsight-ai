@@ -1,0 +1,63 @@
+site_id,class_label,name,latitude,longitude,year,source,notes
+# PLANE_FOREST — Aircraft crashes in forested terrain
+PF001,PLANE_FOREST,Aeroflot Flight 821 (Perm),57.9825,56.1867,2008,ASN/Wikipedia,Boeing 737 crashed into forest on approach
+PF002,PLANE_FOREST,Sukhoi Superjet 100 Demo (Indonesia),-6.7206,106.9311,2012,ASN/Wikipedia,Crashed into Mount Salak during demo flight
+PF003,PLANE_FOREST,LAPA Flight 3142 (Buenos Aires),-34.5636,-58.4156,1999,ASN/Wikipedia,Boeing 737 overran runway into forest/open area
+PF004,PLANE_FOREST,Germanwings Flight 9525 (French Alps),44.2804,6.4339,2015,ASN/Wikipedia,A320 crashed into mountainous forested terrain
+PF005,PLANE_FOREST,Iran Aseman Airlines Flight 3704,32.8400,51.1200,2018,ASN/Wikipedia,ATR 72 crashed into Zagros Mountains
+PF006,PLANE_FOREST,Cebu Pacific Flight 387,7.0650,125.6080,1998,ASN/Wikipedia,DC-9 crashed into hillside forest
+PF007,PLANE_FOREST,Air India Express Flight 812,10.1600,76.3850,2010,ASN/Wikipedia,Boeing 737 overshot runway into ravine
+PF008,PLANE_FOREST,Yeti Airlines Flight 691,28.2064,83.9856,2023,ASN/Wikipedia,ATR 72 crashed into Seti River gorge
+PF009,PLANE_FOREST,Ethiopian Airlines Flight 302,8.8769,39.2515,2019,ASN/Wikipedia,Boeing 737 MAX crashed in open/agricultural terrain
+PF010,PLANE_FOREST,Pakistan International Airlines Flight 661,34.0500,73.2500,2016,ASN/Wikipedia,ATR 42 crashed into hillside
+
+# PLANE_WATER — Aircraft crashes in water
+PW001,PLANE_WATER,AirAsia Flight 8501 (Java Sea),-3.6214,109.6951,2014,ASN/Wikipedia,A320 crashed into Java Sea
+PW002,PLANE_WATER,Lion Air Flight 610 (Java Sea),-5.7833,110.3000,2018,ASN/Wikipedia,Boeing 737 MAX crashed into Java Sea
+PW003,PLANE_WATER,Ethiopian Airlines Flight 961 (Comoros),-12.3072,44.2617,1996,ASN/Wikipedia,Boeing 767 ditched near Comoros coast
+PW004,PLANE_WATER,US Airways Flight 1549 (Hudson River),40.7727,-73.9876,2009,ASN/Wikipedia,A320 ditched in Hudson River
+PW005,PLANE_WATER,Transasia Airways Flight 235,25.0147,121.5583,2015,ASN/Wikipedia,ATR 72 crashed into Keelung River
+
+# PLANE_OPEN_TERRAIN — Aircraft crashes on open ground
+PO001,PLANE_OPEN_TERRAIN,Afriqiyah Airways Flight 771 (Tripoli),32.8631,13.2761,2010,ASN/Wikipedia,A330 crashed short of runway in open terrain
+PO002,PLANE_OPEN_TERRAIN,Spanair Flight 5022 (Madrid),40.4722,-3.5683,2008,ASN/Wikipedia,MD-82 crashed on takeoff
+PO003,PLANE_OPEN_TERRAIN,Kazakhstan Bek Air Flight 2100,43.2100,76.8800,2019,ASN/Wikipedia,Fokker 100 crashed near Almaty airport
+PO004,PLANE_OPEN_TERRAIN,Dana Air Flight 992 (Lagos),6.5764,3.3215,2012,ASN/Wikipedia,MD-83 crashed into building/open area near airport
+PO005,PLANE_OPEN_TERRAIN,Tatarstan Airlines Flight 363,55.6264,49.2783,2013,ASN/Wikipedia,Boeing 737 crashed at Kazan airport
+
+# SHIP_SHALLOW_WATER — Ships visible in shallow water
+SS001,SHIP_SHALLOW_WATER,SS Maheno (Fraser Island),-25.2775,153.1564,1935,NOAA/Wikipedia,Ocean liner beached on Fraser Island
+SS002,SHIP_SHALLOW_WATER,MV Panagiotis (Zakynthos),37.7917,20.6242,1980,Wikipedia,Freighter beached in Navagio Bay
+SS003,SHIP_SHALLOW_WATER,SS Ayrfield (Sydney),-33.8366,151.0897,1972,Wikipedia,Collier ship rusting in Homebush Bay
+SS004,SHIP_SHALLOW_WATER,Peter Iredale (Oregon),46.1672,-123.9625,1906,NOAA/Wikipedia,Barque wreck on Clatsop Spit
+SS005,SHIP_SHALLOW_WATER,Eduard Bohlen (Namibia),-24.6167,14.6833,1909,Wikipedia,Cargo ship stranded in Namib desert coast
+
+# SHIP_REEF_COASTAL — Ships grounded on reefs or coastlines
+SR001,SHIP_REEF_COASTAL,MV Wakashio (Mauritius),-20.4289,57.7486,2020,IMO/Wikipedia,Bulk carrier grounded on reef near Mauritius
+SR002,SHIP_REEF_COASTAL,Costa Concordia (Giglio),42.3636,10.9217,2012,IMO/Wikipedia,Cruise ship capsized near Isola del Giglio
+SR003,SHIP_REEF_COASTAL,MV Rena (New Zealand),-37.7300,176.4600,2011,IMO/Wikipedia,Container ship grounded on Astrolabe Reef
+SR004,SHIP_REEF_COASTAL,MV X-Press Pearl (Sri Lanka),6.9639,79.7744,2021,IMO/Wikipedia,Container ship burned and sank off Colombo
+SR005,SHIP_REEF_COASTAL,MV Hoegh Osaka (Southampton),50.7911,-1.2981,2015,Wikipedia,Car carrier deliberately grounded after listing
+
+# TRAIN_DERAILMENT — Train derailments
+TD001,TRAIN_DERAILMENT,Lac-Megantic Rail Disaster,45.5846,-70.8729,2013,Wikipedia,Oil train derailment and explosion
+TD002,TRAIN_DERAILMENT,Santiago de Compostela Derailment,42.8592,-8.5449,2013,Wikipedia,High-speed train derailed on curve
+TD003,TRAIN_DERAILMENT,East Palestine Ohio Derailment,40.8387,-80.5245,2023,Wikipedia,Norfolk Southern freight train derailment
+TD004,TRAIN_DERAILMENT,Balasore Train Collision (India),21.4934,86.9214,2023,Wikipedia,Triple train collision in Odisha
+TD005,TRAIN_DERAILMENT,Tempi Train Collision (Greece),39.7500,22.3667,2023,Wikipedia,Head-on collision between two trains
+
+# CAR_SUBMERGED — Vehicles in water (notable documented cases)
+CS001,CAR_SUBMERGED,Stava Dam Collapse Vehicles,46.2756,11.5042,1985,Wikipedia,Vehicles swept into valley by dam collapse
+CS002,CAR_SUBMERGED,I-35W Mississippi River Bridge Collapse,44.9781,-93.2441,2007,Wikipedia,Bridge collapse sent vehicles into river
+
+# HELICOPTER_CRASH — Helicopter crashes
+HC001,HELICOPTER_CRASH,Kobe Bryant Helicopter Crash,34.1347,-118.7092,2020,NTSB/Wikipedia,S-76B crashed into hillside in Calabasas
+HC002,HELICOPTER_CRASH,Leicester City Owner Helicopter,52.6204,-1.1420,2018,AAIB/Wikipedia,AW169 crashed near King Power Stadium
+HC003,HELICOPTER_CRASH,Iran President Helicopter Crash,38.7369,46.6958,2024,Wikipedia,Bell 212 crashed in mountainous terrain
+
+# MILITARY_WRECK — Military wrecks visible from satellite
+MW001,MILITARY_WRECK,USS Arizona (Pearl Harbor),21.3649,-157.9498,1941,NOAA/Wikipedia,Battleship sunk at Pearl Harbor — visible underwater
+MW002,MILITARY_WRECK,SS Thistlegorm (Red Sea),27.8125,33.9208,1941,Wikipedia,WWII cargo ship sunk — popular dive site
+MW003,MILITARY_WRECK,Grumman Avenger (Pacific Atoll),7.4628,151.8430,1944,Wikipedia,WWII aircraft wreck on atoll beach
+MW004,MILITARY_WRECK,Tank Graveyard (Afghanistan),34.5167,69.1833,2001,Wikipedia,Abandoned military vehicles outside Kabul
+MW005,MILITARY_WRECK,Boneyard Davis-Monthan AFB,32.1547,-110.8271,1946,Wikipedia,USAF aircraft storage — thousands of visible aircraft
