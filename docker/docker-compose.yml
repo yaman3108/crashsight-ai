@@ -1,0 +1,21 @@
+version: "3.8"
+
+services:
+  trainer:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    volumes:
+      - ../data:/app/data
+      - ../models:/app/models
+    command: python -m src.model.train --config models/configs/yolov8m_default.yaml
+
+  review-ui:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    ports:
+      - "8501:8501"
+    command: streamlit run src/review_ui/app.py --server.port 8501
+    volumes:
+      - ../data:/app/data

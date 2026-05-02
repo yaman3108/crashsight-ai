@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (too large for git)
+data/raw/
+data/processed/
+*.tif
+*.tiff
+*.jp2
+*.hdf5
+
+# Model weights (stored in GitHub Releases or HuggingFace)
+models/weights/*.pt
+models/weights/*.onnx
+models/weights/*.pth
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+docker/data/
+
+# Logs
+*.log
+logs/
+
+# W&B
+wandb/
